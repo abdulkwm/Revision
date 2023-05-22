@@ -10,6 +10,5 @@ public class SumOfNumberDigits {
             num = num/10;
         }
         System.out.println("The sum of the digits " + org + " is :" + sum);
-//        System.out.println("Hello");
     }
 }
