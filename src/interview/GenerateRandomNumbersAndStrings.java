@@ -13,6 +13,5 @@ public class GenerateRandomNumbersAndStrings {
         int randNum = (int) Math.floor ((Math.random() * 3 + 5));
         System.out.println(randNum);
 //        Approach 3 Apache commons-lang API
-
     }
 }
